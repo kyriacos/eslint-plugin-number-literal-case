@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-number-literal-case",
+  "description": "Enforce lowercase identifier and uppercase value for number literals",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "kyriacos/eslint-plugin-number-literal-case",
+  "author": {
+    "name": "Kyriacos Souroullas",
+    "email": "kyriacos.souroullas@gmail.com",
+    "url": "https://souroullas.com"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "hex",
+    "linter",
+    "lint"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=5.0.0"
+  }
+}
