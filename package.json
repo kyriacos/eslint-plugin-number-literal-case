@@ -14,7 +14,12 @@
     "eslint",
     "eslintplugin",
     "eslint-plugin",
+    "eslint-config",
+    "eslint-rules",
     "hex",
+    "hexadecimal",
+    "octal",
+    "binary",
     "linter",
     "lint"
   ],
